@@ -1,5 +1,5 @@
 <h1>  Port Scanner Script </h1>
-<h3> Python </h3>
+<h3> Python 🐍 </h3>
 
 <h2> WHAT IS IT? </h2>
 Created a port scanner script using Python.
